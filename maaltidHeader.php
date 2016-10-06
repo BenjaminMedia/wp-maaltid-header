@@ -16,7 +16,7 @@ class maaltidHeader
                         <i id="menu-trigger" class="icon icon-menu"></i>
                     </div>
                     <div class="col-xs-4 nav-logo">
-                        <a href="/" class="v-link-active"><i class="icon icon-meal-logo-text"></i></a>
+                        <a href="/"><i class="icon icon-meal-logo-text"></i></a>
                     </div>
                     <div class="col-xs-4 nav-right">
                         
@@ -45,7 +45,7 @@ class maaltidHeader
                         </div>
                         <div class="col-xs-12">
                             <ul class="burger-menu">
-                                <li><a href="//maaltid.nu" class="v-link-active">Forside</a></li>
+                                <li><a href="//maaltid.nu">Forside</a></li>
                                 <li><a href="//maaltid.nu/temaer">Temaer</a></li>
                                 <li><a href="//maaltid.nu/forretter-nemme-og-laekre">Forret</a></li>
                                 <li><a href="//maaltid.nu/hovedretter-laekre-og-nemme">Hovedret</a></li>
