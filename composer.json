@@ -1,0 +1,11 @@
+{
+  "name": "benjaminmedia/wp-maaltid-header",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/BenjaminMedia/wp-maaltid-header",
+  "license": "GPLv3",
+  "description": "Shows the Maaltid header",
+  "keywords": ["Maaltid.nu"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
