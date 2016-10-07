@@ -16,7 +16,7 @@ class maaltidHeader
                         <i id="menu-trigger" class="icon icon-menu"></i>
                     </div>
                     <div class="col-xs-4 nav-logo">
-                        <a href="/"><i class="icon icon-meal-logo-text"></i></a>
+                        <a href="//maaltid.nu"><i class="icon icon-meal-logo-text"></i></a>
                     </div>
                     <div class="col-xs-4 nav-right">
                         
